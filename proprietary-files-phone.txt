@@ -26,18 +26,6 @@ odm/lib64/libifaa_factory.so
 odm/lib64/librpmbengclient.so
 odm/lib64/libsecurity_event_dcs_vnd.so
 
-# Fingerprint Pay firmware
-odm/vendor/firmware/alipay.b00
-odm/vendor/firmware/alipay.b01
-odm/vendor/firmware/alipay.b02
-odm/vendor/firmware/alipay.b03
-odm/vendor/firmware/alipay.b04
-odm/vendor/firmware/alipay.b05
-odm/vendor/firmware/alipay.b06
-odm/vendor/firmware/alipay.b07
-odm/vendor/firmware/alipay.b08
-odm/vendor/firmware/alipay.mdt
-
 # GNSS
 odm/etc/apdr.conf
 odm/etc/izat.conf

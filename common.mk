@@ -288,15 +288,7 @@ PRODUCT_COPY_FILES += \
 # Overlays
 PRODUCT_ENFORCE_RRO_TARGETS := *
 PRODUCT_PACKAGES += \
-    CarrierConfig \
-    FrameworksResXiaomi \
-    FrameworksResHouji \
-    HoujiEuiccOverlay \
-    SettingsOverlayHouji \
-    SystemUIResHouji \
-    SettingsResXiaomi \
-    TelephonyResCommon \
-    WifiResCommon \
+    SecureElementResTarget \
     WifiResTarget \
     WifiResTarget_spf
 

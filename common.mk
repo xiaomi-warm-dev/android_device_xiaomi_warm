@@ -289,11 +289,12 @@ PRODUCT_COPY_FILES += \
 PRODUCT_ENFORCE_RRO_TARGETS := *
 PRODUCT_PACKAGES += \
     CarrierConfig \
-    FrameworksResSm4635 \
     FrameworksResXiaomi \
-    SystemUIResSm4635 \
     SettingsResXiaomi \
     TelephonyResCommon \
+    FrameworksResSm4635 \
+    SettingsOverlaySm4635 \
+    SystemUIResSm4635 \
     WifiResCommon \
     WifiResTarget \
     WifiResTarget_spf

@@ -291,7 +291,6 @@ PRODUCT_PACKAGES += \
     CarrierConfig \
     FrameworksResSm4635 \
     FrameworksResXiaomi \
-    SecureElementResTarget \
     SystemUIResSm4635 \
     SettingsResXiaomi \
     TelephonyResCommon \

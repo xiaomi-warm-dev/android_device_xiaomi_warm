@@ -289,7 +289,9 @@ PRODUCT_COPY_FILES += \
 PRODUCT_ENFORCE_RRO_TARGETS := *
 PRODUCT_PACKAGES += \
     CarrierConfig \
+    FrameworksResSm4635 \
     SecureElementResTarget \
+    SystemUIResSm4635 \
     WifiResTarget \
     WifiResTarget_spf
 

@@ -288,7 +288,6 @@ PRODUCT_COPY_FILES += \
 # Overlays
 PRODUCT_ENFORCE_RRO_TARGETS := *
 PRODUCT_PACKAGES += \
-PRODUCT_PACKAGES += \
     CarrierConfig \
     FrameworksResSm4635 \
     FrameworksResXiaomi \
